@@ -45,7 +45,9 @@
 <p>The Beans Route Team</p>
 <br>
 <br>
-  <img src="https://www.beansroute.ai/assets/poster-image.png" width="800" height="519.82" border="0" alt="Beans Route image">
+ <img src="https://www.beansroute.ai/assets/poster-image.png" max-width: 100%;
+    height: auto alt="Beans Route image">
+  <!--width="800" height="519.82" border="0">
 <br>
 <br>
 <br>
