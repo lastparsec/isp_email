@@ -47,7 +47,7 @@
 <br>
   <img src="https://www.beansroute.ai/assets/poster-image.png" style="max-width: auto;
     height: auto" alt="Beans Route image">
-  <!--width="800" height="519.82" border="0">
+ 
 <br>
 <br>
 <br>
